@@ -47,10 +47,4 @@ SGPA for Semester 2: 8.58
 Final CGPA: 8.47
 ```
 
-## 🚀 Future Enhancements
-- **GUI-based version** using Python/Tkinter or C++ Qt  
-- **File storage** to save past results  
-- **Grade conversion** for different grading systems  
 
-## 📝 License
-This project is open-source under the **MIT License**.
